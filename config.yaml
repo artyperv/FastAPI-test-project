@@ -1,0 +1,2 @@
+DATABASE_URL: "postgresql://user:password@localhost/db_name"
+ACCESS_TOKEN_EXPIRE_MINUTES: 60
